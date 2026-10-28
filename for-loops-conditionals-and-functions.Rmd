@@ -38,7 +38,7 @@ Next set of questions will all use for loops to solve.
 ***
 hint:
 ```{r, eval=FALSE}
-a <- c()
+a <- c() #create an empty vector
 for (variable in sequence) {
   insert variable into vector 'a'
 }

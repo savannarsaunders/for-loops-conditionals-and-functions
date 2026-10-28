@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Creating a new shapefile
 
-1. Using the locations from Boundary_points.csv as your guide, create a polygon shapefile 2 different ways
+1. Using the locations from Boundary_points.xlsx as your guide, create a polygon shapefile 2 different ways
     - Create from scratch using editing tools
     - Minimum boundary geometry tool
     
